@@ -44,7 +44,6 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
 @Composable
 fun AffirmationsApp() {
     AffirmationList(
